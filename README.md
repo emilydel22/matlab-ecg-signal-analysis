@@ -14,6 +14,13 @@ preprocessing, peak detection, and heart rate calculation.
 - `ecg_run1_analyzed.mat` — processed ECG data
 - `ECG.jpg` — example ECG signal visualization
 
+## Tools
+- MATLAB (signal processing & visualization)
+- Arduino
+- Piezoelectric sensor
+- Temperature sensor
+- ECG electrodes
+
 ## Methods
 1. Signal preprocessing and baseline correction
 2. Noise filtering
@@ -23,7 +30,10 @@ preprocessing, peak detection, and heart rate calculation.
 ## Results
 [![ECG Signal](ECG.jpg)](ECG.jpg)
 
-## Tools
-- MATLAB
+## Hardware & Application
 
+[![Circuit View 1](Circuit-Second-Perspective.jpg)](Circuit-Second-Perspective.jpg)
 
+[![Circuit View 2](Circuit-Third-Perspective.jpg)](Circuit-Third-Perspective.jpg)
+
+[![On-Patient Application](Application-On-Patient.jpg)](Application-On-Patient.jpg)
